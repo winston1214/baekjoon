@@ -1,3 +1,6 @@
+# @Author YoungMinKim
+# baekjoon
+
 a= list(map(int,input().split()))
 ascending = sorted(a)
 descending = sorted(a,reverse=True)
