@@ -9,10 +9,14 @@ def isPrime(num):
         if num%i==0:
             return False
     return True
-N=int(input())
-x=list(map(int,input().split()))
-cnt=0
-for i in x:
+M = int(input())
+N = int(input())
+ls=[]
+for i in range(M,N+1):
     if isPrime(i):
-        cnt+=1
-print(cnt)
+        ls.append(i)
+if len(ls) == 0:
+    print(-1)
+else:    
+    print(sum(ls))
+    print(min(ls))
