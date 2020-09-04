@@ -1,2 +1,1 @@
-# baekjoon
-[![Solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=winston1214)](https://solved.ac/winston1214)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=winston1214)](https://solved.ac/winston1214)
