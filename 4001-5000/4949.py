@@ -34,6 +34,6 @@ while True:
     if x == '.':
         break
     if checkBrackets(x):
-        print('YES')
+        print('yes')
     else:
-        print('NO')
+        print('no')
