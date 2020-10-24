@@ -1,3 +1,6 @@
+# @Author YoungMinKim
+# baekjoon
+
 import sys
 a_x,a_y = map(int,sys.stdin.readline().split())
 b_x,b_y = map(int,sys.stdin.readline().split())
