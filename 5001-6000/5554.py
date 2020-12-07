@@ -9,4 +9,5 @@ d= int(sys.stdin.readline())
 
 all_sec = a+b+c+d
 
-print(all_sec//60,all_sec%60)
+print(all_sec//60)
+print(all_sec%60)
