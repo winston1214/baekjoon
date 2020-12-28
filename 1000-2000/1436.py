@@ -1,3 +1,6 @@
+# @Author YoungMinKim
+# baekjoon
+
 import sys
 x = int(sys.stdin.readline())
 cnt = 0
